@@ -1,7 +1,16 @@
 {
-"profiles": [
-{"id":1, "name":"sandeep", "age":24},
-{"id":2, "name":"vishal", "age":25},
-{"id":3, "name":"ankit", "age":26},
-{"id":4, "name":"akshay", "age":27}]
-}
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ]
+  }
