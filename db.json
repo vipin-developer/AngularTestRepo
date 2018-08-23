@@ -1,8 +1,8 @@
 {
 "profiles":[
-{"id":1,"name":sandeep,"age":24}
-{"id":2,"name":vishal,"age":25}
-{"id":3,"name":ankit,"age":26}
-{"id":4,"name":akshay,"age":27}
+{"id":1,"name":sandeep,"age":24},
+{"id":2,"name":vishal,"age":25},
+{"id":3,"name":ankit,"age":26},
+{"id":4,"name":akshay,"age":27},
 ]
 }
