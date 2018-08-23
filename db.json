@@ -1,16 +1,16 @@
 {
-  "posts": [
+  "profiles": [
     {
       "id": 1,
-      "name": "vishal"
+      "name":"vishal"
     },
     {
       "id": 2,
-      "name": "ankit"
+      "name":"ankit"
     },
     {
       "id": 3,
-      "name": "akshay"
+      "name":"akshay"
     }
   ]
   }
